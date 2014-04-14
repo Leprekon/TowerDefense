@@ -1,0 +1,39 @@
+<level ground="map_test.png">
+	<path name="mainPath">
+		<point x="0" y="320"/>
+		<point x="300" y="320"/>
+		<point x="440" y="400"/>
+		<point x="490" y="520"/>
+		<point x="460" y="700"/>
+		<point x="390" y="900"/>
+		<point x="390" y="960"/>
+		<point x="400" y="1030"/>
+		<point x="500" y="1150"/>
+		<point x="600" y="1190"/>
+		<point x="750" y="1180"/>
+		<point x="800" y="1160"/>
+		<point x="900" y="1080"/>
+		<point x="1020" y="890"/>
+		<point x="1090" y="770"/>
+		<point x="1300" y="650"/>
+		<point x="1400" y="620"/>
+		<point x="1500" y="620"/>
+		<point x="1700" y="680"/>
+		<point x="1850" y="680"/>
+		<point x="2250" y="550"/>
+	</path>
+    <wave path="mainPath" id="0">
+        <group id="0" count="30" startTime="0" endTime="50000" />
+        <group id="1" count="20" startTime="0" endTime="50000" />
+    </wave>
+    <towers>
+        <construction x="170" y="680"/>
+        <construction x="160" y="1080"/>
+        <construction x="660" y="970"/>
+        <construction x="750" y="670"/>
+        <construction x="1260" y="1000"/>
+        <construction x="1860" y="950"/>
+        <construction x="1700" y="450"/>
+    </towers>
+
+</level>

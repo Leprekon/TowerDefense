@@ -1,0 +1,11 @@
+<game>
+    <units>
+        <unit id="0" speed="60" health="20" physicalResistance="0" magicResistance="0" price="10" height="50"/>
+        <unit id="1" speed="60" health="30" physicalResistance="0.2" magicResistance="0" price="10" height="70"/>
+    </units>
+    <towers>
+        <tower id="0" price="50" radius="400" fireRate="1.5">
+            <projectile damage="10" speed="400" targetType="unit" explodeRadius="0" damageType="physical"/>
+        </tower>
+    </towers>
+</game>
