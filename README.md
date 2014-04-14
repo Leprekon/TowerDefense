@@ -7,7 +7,7 @@ TowerDefense game prototype
 Настройка юнитов и др. параметров GameConfig.xml
 Оба файла внешние, поэтому важно чтобы сохранялись относительные пути.
 
-Для запуска обязательно добавить путь к SWF в доверенные местаположения http://www.macromedia.com/support/documentation/ru/flashplayer/help/settings_manager04.html
+Для запуска обязательно добавить путь к SWF в доверенные местоположения http://www.macromedia.com/support/documentation/ru/flashplayer/help/settings_manager04.html
 
 Код написан с прицелом на развитие игры и имеет достаточно гибкую архитектуру.
 
